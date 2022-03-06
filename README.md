@@ -24,16 +24,16 @@ In this version it is required to generate a model that classifies a double bott
 3. Generate features that are considered interesting to recognize the pattern from the data of the temporary window (see comments below).
 4. Train a model of those seen in class by separating the data in train/test.
 5. Report the evaluation results that can be included in a notebook with the code for generate them. The evaluation should include:
-  (a) A confusion matrix
-  (b) Accuracy and AUROC results
-  (c) A ROC curve
+  - A confusion matrix
+  - Accuracy and AUROC results
+  - A ROC curve
 
 Regarding the generation of characteristics, it is recommended to generate simple functions that calculate values that help to distinguish some series from others, regardless of the pattern that is being searched for. What the windows would have a different price scale, it is necessary that the characteristics are normalized.
 Some examples can be:
 
-• Number of days that pass between the maximum and the minimum of the window
-• If the maximum or minimum occurs first
-• Number of times in the window that a certain threshold is reached
+- Number of days that pass between the maximum and the minimum of the window
+- If the maximum or minimum occurs first
+- Number of times in the window that a certain threshold is reached
 
 
 ### 2st part
@@ -46,7 +46,6 @@ In this part, it is requested to address the problem as a multiclass classificat
 4. Use the model to identify 5 patterns of each class in the EUROSTOXX historical series.
 
 For example, you can iterate over the temporary windows and choose the most reliable ones in the prediction of each class.
-
 
 ### 3rd part
 
