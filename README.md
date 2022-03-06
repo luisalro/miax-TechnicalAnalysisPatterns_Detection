@@ -1,0 +1,1 @@
+# miax-TechnicalAnalysisPatterns_Detection
