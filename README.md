@@ -1,5 +1,9 @@
 This lab was created  by Tomás de la Rosa , professor from mIA-X master's degree at BME Institute. It necessarily needed to be programmed in Python.
 
+Check out his LinkedIn profile.
+
+<a href="https://www.linkedin.com/in/tom%C3%A1s-de-la-rosa-3b593827/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+
 ### Instructions
 
 The goal of this lab is to use machine learning techniques to build models that allow to recognize patterns of technical analysis within a series of prices. In its simplest form these models can be approached as a binary classification task in which the model is capable of identify:
