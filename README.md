@@ -56,4 +56,3 @@ The submitted file must contain:
 
 1. The notebooks that generate the models and report the results of the practice.
 2. The series of manually labeled windows, saved in CSV format.
-3. A subfolder with the charts predicted for EUROSTOXX (last section of the second part).
