@@ -45,10 +45,6 @@ In this part, it is requested to address the problem as a multiclass classificat
 1. Carry out steps 1 to 3 of the first iteration, but taking into account the required considerations for the multiclass problem.
 2. Train classifiers using 3 different algorithms, and choose the best one based on accuracy estimated with cross validation.
 3. Report the evaluation of the best model on a separate test set. Here should be included precision and sensitivity, by class and in their micro-average and macro-average versions.
-4. Use the model to identify 5 patterns of each class in the EUROSTOXX historical series.
-
-For example, you can iterate over the temporary windows and choose the most reliable ones in the prediction of each class.
-
 
 ### Deliverable
 
