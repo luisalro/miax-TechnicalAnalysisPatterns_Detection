@@ -38,7 +38,7 @@ Some examples can be:
 - If the maximum or minimum occurs first
 - Number of times in the window that a certain threshold is reached
 
-### 2st part
+### 2nd part
 
 In this part, it is requested to address the problem as a multiclass classification so that they can be recognized at the same time several technical figures. A simple scheme would be to have, for example, a double bottom, a double top and without pattern. Suggested tasks are:
 
