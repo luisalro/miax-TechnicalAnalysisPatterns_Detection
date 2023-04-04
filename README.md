@@ -7,7 +7,7 @@ The goal of this lab is to use machine learning techniques to build models that 
 
 An example of a positive class would be:
 
-![alt text](https://a.c-dn.net/c/content/dam/publicsites/igcom/uk/images/ContentImage/Double%20bottom.png)
+![alt text](https://fxpipsgainer.com/wp-content/uploads/2020/11/2Double-bottom.png)
 
 
 The lab should be done in Python notebooks using the sklearn library. It can be used any other library deemed necessary.
